@@ -1,2 +1,2 @@
-# my-internship-record
-我的实习记录
+# 我的实习记录
+待添加...
