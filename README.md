@@ -2017,4 +2017,6 @@
 
 5、C#索引器 Indexer
 
+6、C#泛型 Generic
+
 6、ASP.NET MVC Introduce
