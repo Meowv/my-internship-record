@@ -2004,3 +2004,17 @@
 1、Asp.Net MVC学习
 
 2、[武汉至科检测技术有限公司网站](http://zktit.com/)、[武汉东方建设集团建筑设计院网站](http://www.dfjssj.com/)、武汉至科检测技术有限公司论坛 3个网站功能清单整理
+
+### 2016年11月30日星期三
+
+1、C#文件读写操作 IO
+
+2、C#委托 Delegate
+
+3、C#异常处理 ExceptionHandle
+
+4、C#事件处理机制 Event
+
+5、C#索引器 Indexer
+
+6、ASP.NET MVC Introduce
