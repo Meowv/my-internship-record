@@ -2019,4 +2019,14 @@
 
 6、C#泛型 Generic
 
-6、ASP.NET MVC Introduce
+7、ASP.NET MVC Introduce
+
+### 2016年12月1日星期四
+
+1、C#的Attribute
+
+2、C#的预处理指令
+
+3、C#的反射机制
+
+4、C#的正则表达式
