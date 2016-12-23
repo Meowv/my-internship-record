@@ -2124,3 +2124,9 @@ MVC5 && EF6
 2、ASP.NET MVC5官方教程(中文版).pdf(看完)
 
 3、深入理解Bootstrap
+
+### 2016年12月23日星期五
+
+1、Linq To SQL
+
+2、NoSql、MongoDB数据库基础
